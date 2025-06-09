@@ -1,0 +1,8 @@
+﻿  main.cpp
+C:\Users\Andrusha\source\repos\Algosi\3.1 (algosi)\3.1 (algosi)\header.h(64,9): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  (компиляция исходного файла "main.cpp")
+  
+C:\Users\Andrusha\source\repos\Algosi\3.1 (algosi)\3.1 (algosi)\header.h(89,9): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  (компиляция исходного файла "main.cpp")
+  
+  3.1 (algosi).vcxproj -> C:\Users\Andrusha\source\repos\Algosi\3.1 (algosi)\x64\Debug\3.1 (algosi).exe
