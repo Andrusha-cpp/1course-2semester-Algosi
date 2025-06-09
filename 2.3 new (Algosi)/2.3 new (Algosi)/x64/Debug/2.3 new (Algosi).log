@@ -1,0 +1,28 @@
+﻿  main.cpp
+C:\Users\Andrusha\source\repos\Algosi\2.3 new (Algosi)\2.3 new (Algosi)\header.h(67,20): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+  (компиляция исходного файла "main.cpp")
+      C:\Users\Andrusha\source\repos\Algosi\2.3 new (Algosi)\2.3 new (Algosi)\header.h(67,20):
+      контекст создания экземпляра шаблона (сначала самый старый)
+          C:\Users\Andrusha\source\repos\Algosi\2.3 new (Algosi)\2.3 new (Algosi)\header.h(95,23):
+          выполняется компиляция ссылки на экземпляр класс шаблон функции "PriorityQueue<offer>"
+          C:\Users\Andrusha\source\repos\Algosi\2.3 new (Algosi)\2.3 new (Algosi)\header.h(64,7):
+          во время компиляции функции-члена класс шаблон "void PriorityQueue<offer>::push(T)"
+          with
+          [
+              T=offer
+          ]
+              C:\Users\Andrusha\source\repos\Algosi\2.3 new (Algosi)\2.3 new (Algosi)\header.h(98,13):
+              см. первую ссылку на PriorityQueue<offer>::push "Calculate"
+  
+C:\Users\Andrusha\source\repos\Algosi\2.3 new (Algosi)\2.3 new (Algosi)\header.h(42,12): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  (компиляция исходного файла "main.cpp")
+      C:\Users\Andrusha\source\repos\Algosi\2.3 new (Algosi)\2.3 new (Algosi)\header.h(42,12):
+      контекст создания экземпляра шаблона (сначала самый старый)
+          C:\Users\Andrusha\source\repos\Algosi\2.3 new (Algosi)\2.3 new (Algosi)\header.h(40,7):
+          во время компиляции функции-члена класс шаблон "void PriorityQueue<offer>::GoDown(int)"
+              C:\Users\Andrusha\source\repos\Algosi\2.3 new (Algosi)\2.3 new (Algosi)\header.h(79,9):
+              см. первую ссылку на PriorityQueue<offer>::GoDown "PriorityQueue<offer>::pop"
+              C:\Users\Andrusha\source\repos\Algosi\2.3 new (Algosi)\2.3 new (Algosi)\header.h(103,12):
+              см. первую ссылку на PriorityQueue<offer>::pop "Calculate"
+  
+  2.3 new (Algosi).vcxproj -> C:\Users\Andrusha\source\repos\Algosi\2.3 new (Algosi)\x64\Debug\2.3 new (Algosi).exe
